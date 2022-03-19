@@ -83,7 +83,7 @@ pip3 install git+https://github.com/stevenplatt/arxivpy
 You can also do it manually by cloning the repository and run `setup.py` to install the package.
 
 ```bash
-git clone https://github.com/titipata/arxivpy
+git clone https://github.com/stevenplatt/arxivpy
 cd arxivpy
 python setup.py install
 ```
