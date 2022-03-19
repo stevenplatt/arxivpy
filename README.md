@@ -77,7 +77,7 @@ we encourage you to play nice and incorporate a 3 seconds delay in your code.
 The easiest way is to use `pip`.
 
 ```bash
-pip install git+https://github.com/titipata/arxivpy
+pip3 install git+https://github.com/stevenplatt/arxivpy
 ```
 
 You can also do it manually by cloning the repository and run `setup.py` to install the package.
